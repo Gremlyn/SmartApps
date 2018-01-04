@@ -16,7 +16,7 @@
  *
  */
 definition(
-    name: "Gremlyn's Smart Night Light",
+    name: "Slightly Smarter Night Light",
     namespace: "gremlyn",
     author: "Gremlyn",
     description: "Turns on lights when it's dark and motion is detected. Turns lights off when it becomes light or some time after motion ceases.",
